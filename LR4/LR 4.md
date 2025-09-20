@@ -9,3 +9,8 @@
 ![[Pasted image 20250919203039.png]]
 Ключ ssh создан и подключен
 ![[Pasted image 20250919203135.png]]
+Подключение репозиториев 
+![[Pasted image 20250919205012.png]]
+Проверка
+![[Pasted image 20250919205815.png]]
+![[Pasted image 20250920114428.png]]
