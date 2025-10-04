@@ -1,11 +1,3 @@
-
 fio = input("Введите ФИО: ")
-print(fio.title())
-f, i, o=fio.split()
-a=(f[:1])
-b=(i[:1])
-c=(o[:1])
-abc = " ".join((a, b, c))
-abc=abc.upper()
-abc=abc.replace(" ", "", 2)
-print("Добро пожаловать ",abc) 
+fio=fio.capitalize()
+print("Добро пожаловать",fio.title()) 
