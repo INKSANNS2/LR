@@ -1,0 +1,12 @@
+gra = []
+gra.append(5)
+gra.append(4)
+gra.append(3)
+gra.append(5)
+gra.append(2)
+print(f"Текущие оценки: {gra}")
+gra.pop(0)
+gra.pop()
+ave = sum(gra) / len(gra)
+print(f"Средний балл: {ave}")
+print(f"Итоговые оценки: {gra}")
